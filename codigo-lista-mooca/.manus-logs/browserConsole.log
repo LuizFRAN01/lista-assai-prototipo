@@ -1,0 +1,18 @@
+[2026-11-06T21:41:11.186Z] {"timestamp":1794001269183,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-11-06T21:41:11.186Z] {"timestamp":1794001269187,"level":"DEBUG","args":["[vite] connecting..."],"stack":null}
+[2026-11-06T21:41:11.186Z] {"timestamp":1794001269206,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-11-06T21:41:11.186Z] {"timestamp":1794001269300,"level":"INFO","args":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"],"stack":null}
+[2026-11-06T21:41:34.423Z] {"timestamp":1794001255725,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-11-06T21:41:34.423Z] {"timestamp":1794001255889,"level":"DEBUG","args":["[vite] connecting..."],"stack":null}
+[2026-11-06T21:41:34.423Z] {"timestamp":1794001256365,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-11-06T21:41:34.487Z] {"timestamp":1794001255725,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-11-06T21:41:34.487Z] {"timestamp":1794001255889,"level":"DEBUG","args":["[vite] connecting..."],"stack":null}
+[2026-11-06T21:41:34.487Z] {"timestamp":1794001256365,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-11-06T21:41:36.799Z] {"timestamp":1794001258025,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-11-06T21:41:36.799Z] {"timestamp":1794001258184,"level":"DEBUG","args":["[vite] connecting..."],"stack":null}
+[2026-11-06T21:41:36.799Z] {"timestamp":1794001258645,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-11-06T21:41:47.129Z] {"timestamp":1794001268356,"level":"DEBUG","args":["[Manus] Debug collector initialized (no rrweb, UI events only)"],"stack":null}
+[2026-11-06T21:41:47.129Z] {"timestamp":1794001268525,"level":"DEBUG","args":["[vite] connecting..."],"stack":null}
+[2026-11-06T21:41:47.129Z] {"timestamp":1794001268992,"level":"DEBUG","args":["[vite] connected."],"stack":null}
+[2026-11-06T21:46:33.325Z] {"timestamp":1794001555232,"level":"DEBUG","args":["[vite]","hot updated: /src/index.css"],"stack":null}
+[2026-11-06T21:46:33.325Z] {"timestamp":1794001555233,"level":"DEBUG","args":["[vite]","hot updated: /src/pages/Home.tsx"],"stack":null}
